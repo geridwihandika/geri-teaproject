@@ -1,6 +1,6 @@
 {
   "name": "geri-teaproject",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -12,6 +12,7 @@
     "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
+    "react-teaproject": "^1.1.2",
     "vue-teaproject": "^1.1.2"
   },
   "devDependencies": {
