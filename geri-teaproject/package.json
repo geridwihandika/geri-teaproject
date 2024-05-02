@@ -1,6 +1,6 @@
 {
-  "name": "geri-teaproject",
-  "version": "2.2.0",
+  "name": "@gerihandika/geri-teaproject",
+  "version": "3.2.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -8,14 +8,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "go-tea": "^1.1.3",
+    "airdropfind": "^1.1.6",
+    "go-tea": "^2.1.3",
     "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "react-teaproject": "^1.1.2",
+    "react-teaproject": "^2.1.2",
     "tea-venuss03": "^2.1.4",
-    "user": "^0.0.0",
-    "vue-teaproject": "^1.1.2"
+    "user": "^1.0.0",
+    "vue-teaproject": "2.1.2"
   },
   "devDependencies": {
     "@types/node": "^20",
@@ -32,12 +33,18 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/geridwihandika/geri-teaproject.git"
+    "url": "git+https://github.com/geridwihandika/geri-teaproject.git"
   },
   "author": "gerihandika",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/geridwihandika/geri-teaproject/issues"
   },
-  "homepage": "https://github.com/geridwihandika/geri-teaproject#readme"
+  "homepage": "https://github.com/geridwihandika/geri-teaproject#readme",
+  "keywords": [
+    "airdropfind",
+    "gerihandika",
+    "geridwihandika",
+    "tea"
+  ]
 }
